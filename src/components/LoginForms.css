@@ -1,0 +1,57 @@
+.bg { 
+    text-align:center!important;
+    background-color: black; 
+    font-family: 'Major Mono Display', monospace; 
+    border-radius: 0.3rem;
+    padding:1.7rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    color:white;
+  }
+
+.login, .signup {
+    font-family: 'Major Mono Display', monospace, cursive;
+    font-size: 1rem;
+    line-height: 1.6rem;
+    text-align:center;
+    background-color: #76B900;
+    border-radius: 0.3rem;
+    padding:0.7rem;
+    margin: 1rem;
+  }
+
+ .Input{
+    text-align: center;
+  }
+
+  .backtext {
+    text-align:center; 
+    background-color: #76B900!important; 
+    font-family: 'Major Mono Display', monospace; 
+    font-size: 3.5em; 
+    border-radius: 0.3rem;
+    line-height: 1.7rem;
+    width: min-content!important;
+    display: block;
+    padding:1rem;
+    margin-left: auto;
+    margin-right: auto;
+    white-space: pre;
+    color: black!important;
+  }
+
+  .todo-form{
+    margin: 1rem;
+  }
+
+.todo-row{
+  font-family: 'Major Mono Display', monospace, cursive;
+  font-size: 1rem;
+  line-height: 1.6rem;
+  text-align:center;
+  border-radius: 0.3rem;
+  padding:0.7rem;
+  margin: 1rem;
+}
